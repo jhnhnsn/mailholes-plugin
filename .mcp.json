@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mailholes": {
+      "type": "http",
+      "url": "https://mailholes.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${MAILHOLES_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mailholes",
+  "description": "Disposable email inboxes for AI agents. Create throwaway addresses, then read, search, and export the mail they receive — for testing signup flows, verification codes, and password resets.",
+  "version": "2.5.0",
+  "author": {
+    "name": "John Henson"
+  },
+  "homepage": "https://mailholes.com",
+  "repository": "https://github.com/jhnhnsn/mailholes-plugin",
+  "keywords": [
+    "email",
+    "testing",
+    "disposable",
+    "inbox",
+    "mcp"
+  ]
+}
