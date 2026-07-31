@@ -11,7 +11,7 @@ service at [mailholes.com](https://mailholes.com); there is no server to run you
 
 mailholes exists for testing software you control. It is **not** for using throwaway addresses
 to abuse other services. The [Acceptable Use Policy](https://mailholes.com/acceptable-use)
-prohibits, and we enforce against:
+prohibits:
 
 - fraud, impersonation, or account takeover;
 - evading another service's bans, KYC, or anti-fraud controls;
@@ -20,8 +20,8 @@ prohibits, and we enforce against:
 - receiving or storing illegal content. Child sexual abuse material is reported to authorities
   and NCMEC.
 
-Accounts are suspended or terminated for violations, without refund. Abuse reports go to
-[abuse@mailholes.com](mailto:abuse@mailholes.com).
+The policy is enforced at our discretion, including immediate suspension or termination without
+refund. Abuse reports go to [abuse@mailholes.com](mailto:abuse@mailholes.com).
 
 ## Install
 
