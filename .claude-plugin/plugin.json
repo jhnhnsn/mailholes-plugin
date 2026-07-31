@@ -1,6 +1,6 @@
 {
   "name": "mailholes",
-  "description": "Create disposable email addresses for testing signup flows, verification codes, and password resets. Abusing 3rd party services is prohibited (mailholes.com/acceptable-use).",
+  "description": "Disposable email addresses for AI agents. Test signup flows, verification codes, and password resets. Abusing third-party services is prohibited (mailholes.com/acceptable-use).",
   "version": "2.5.0",
   "author": {
     "name": "John Henson"
