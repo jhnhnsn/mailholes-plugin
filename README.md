@@ -7,6 +7,22 @@ password resets without wiring up a real mailbox.
 This repo contains the Claude Code plugin definition. It connects to the hosted mailholes
 service at [mailholes.com](https://mailholes.com); there is no server to run yourself.
 
+## Acceptable use
+
+mailholes exists for testing software you control. It is **not** for using throwaway addresses
+to abuse other services. The [Acceptable Use Policy](https://mailholes.com/acceptable-use)
+prohibits, and we enforce against:
+
+- fraud, impersonation, or account takeover;
+- evading another service's bans, KYC, or anti-fraud controls;
+- abusing third-party services or bypassing their terms, rate limits, or security controls;
+- phishing, credential harvesting, malware, or command-and-control;
+- receiving or storing illegal content. Child sexual abuse material is reported to authorities
+  and NCMEC.
+
+Accounts are suspended or terminated for violations, without refund. Abuse reports go to
+[abuse@mailholes.com](mailto:abuse@mailholes.com).
+
 ## Install
 
 You need an API key from the [mailholes dashboard](https://mailholes.com) first.
@@ -56,9 +72,6 @@ code out of `get_message`.
   not storage.
 - **Receiving only:** mailholes accepts inbound mail. It does not send.
 - **Isolation:** each API key sees only its own addresses and mail.
-- **Acceptable use:** don't use disposable addresses for fraud, impersonation, or evading another
-  service's anti-abuse controls. See the
-  [Acceptable Use Policy](https://mailholes.com/acceptable-use).
 
 ## Links
 
